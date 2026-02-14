@@ -1,6 +1,6 @@
 # Heisenberg Harmonic Learning Dynamics (HHLD)
 
-**Neural networks are quantum harmonic oscillators. Training is Heisenberg time evolution. This framework proves machine learning obeys quantum mechanics.**
+**Neural networks are quantum harmonic oscillators. Training is Heisenberg time evolution. This framework shows machine learning obeys quantum mechanics.**
 
 ---
 
