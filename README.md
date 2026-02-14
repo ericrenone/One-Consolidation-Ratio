@@ -453,7 +453,7 @@ print("\n" + "="*70)
 print("ALL EXAMPLES COMPLETED SUCCESSFULLY")
 print("="*70)
 ```
-# Best Takeaways: Heisenberg Harmonic Learning Dynamics
+# Core: Heisenberg Harmonic Learning Dynamics
 
 ---
 
