@@ -1,4 +1,4 @@
-# Consolidation Ratio for Neural Network Phase Transitions
+# Stochastic-Harmonic-Learning-Dynamics: Consolidation Ratio for Neural Network Phase Transitions
 
 **Predict grokking, double descent, and optimal learning rates using one metric**
 
